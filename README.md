@@ -32,7 +32,7 @@ sudo sboui
  
 ## You can install:
 
-### Teamviewer:
+###Teamviewer:
 from sboui
 
 ### Github desktop:
